@@ -1,0 +1,9 @@
+#Day 6 task
++In movie file
+     +get movie,studio name,if any movie didn't assign to Rating,default assign Rating by getter method
++In Circle file
+     +get Area and Circumference of the circle 
++In Person file
+    +get Person details included their skills
++In UberFare file
+    +get Customer details and their price of travel distance
